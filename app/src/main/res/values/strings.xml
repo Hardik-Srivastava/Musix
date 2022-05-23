@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musix</string>
+    <string name="notelogo">notelogo</string>
+    <string name="previous">previous</string>
+    <string name="play">play</string>
+    <string name="next">next</string>
+</resources>
